@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+logs
+instances
+statistics.tsv
+wallet.json
+.log
+.sqlite
+.pm2
+db
+db*
